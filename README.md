@@ -1,16 +1,13 @@
-# flutter_resume
+# Flutter Resume
 
-A new Flutter project.
+This is the first Flutter project that I have done.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+As required by the university to make an interative resume, I've decided to go with a digital one. It's always exciting to try out different technologies. 
 
-A few resources to get you started if this is your first Flutter project:
+However, there are rooms for improvement that I can see throught the development of this project. Will optimize the code and clean up some redundant code as well. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Feel free to contact me if you have any questions or suggestions on this project :)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
