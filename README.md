@@ -10,4 +10,4 @@ However, there are rooms for improvement that I can see throught the development
 
 Feel free to contact me if you have any questions or suggestions on this project :)
 
-
+https://flutterresume.web.app/#/
